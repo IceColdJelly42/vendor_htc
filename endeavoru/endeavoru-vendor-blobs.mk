@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so \
   vendor/htc/endeavoru/proprietary/usr/keylayout/tegra-kbc.kl:system/usr/keylayout/tegra-kbc.kl \
   vendor/htc/endeavoru/proprietary/bin/rilposd:system/bin/rilposd \
+  vendor/htc/endeavoru/proprietary/lib/libpos.so:system/lib/libpos.so \
   vendor/htc/endeavoru/proprietary/bin/RXN_IntApp:system/bin/RXN_IntApp \
   vendor/htc/endeavoru/proprietary/etc/gps/agps.truststore:system/etc/gps/agps.truststore \
   vendor/htc/endeavoru/proprietary/etc/gps/agps.truststore_lab:system/etc/gps/agps.truststore_lab \
@@ -244,4 +245,5 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
   vendor/htc/endeavoru/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
   vendor/htc/endeavoru/proprietary/lib/hw/nfc.endeavoru.so:system/lib/hw/nfc.endeavoru.so \
-  vendor/htc/endeavoru/proprietary/lib/hw/sensors.endeavoru.so:system/lib/hw/sensors.endeavoru.so
+  vendor/htc/endeavoru/proprietary/lib/hw/sensors.endeavoru.so:system/lib/hw/sensors.endeavoru.so \
+  vendor/htc/endeavoru/proprietary/app/PGPSDownloader.apk:system/app/PGPSDownloader.apk
