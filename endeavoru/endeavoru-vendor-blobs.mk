@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
   $(LOCAL_PATH)/proprietary/bin/GPSCConfigFile.cfg_pgps:system/bin/GPSCConfigFile.cfg_pgps \
   $(LOCAL_PATH)/proprietary/bin/pathconfigfile.txt:system/bin/pathconfigfile.txt \
   $(LOCAL_PATH)/proprietary/bin/patch-X.0.ce:system/bin/patch-X.0.ce \
-  $(LOCAL_PATH)/proprietary/bin/uim-sysfs:system/bin/uim-sysfs \
   $(LOCAL_PATH)/proprietary/etc/firmware/TIInit_10.4.27.bts:system/etc/firmware/TIInit_10.4.27.bts \
   $(LOCAL_PATH)/proprietary/etc/firmware/TIInit_10.5.20.bts:system/etc/firmware/TIInit_10.5.20.bts \
   $(LOCAL_PATH)/proprietary/etc/firmware/TIInit_10.6.15.bts:system/etc/firmware/TIInit_10.6.15.bts \
