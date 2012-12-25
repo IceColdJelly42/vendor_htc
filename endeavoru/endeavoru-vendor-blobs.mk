@@ -242,7 +242,7 @@ PRODUCT_COPY_FILES += \
   $(LOCAL_PATH)/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   $(LOCAL_PATH)/proprietary/lib/libmpl.so:system/lib/libmpl.so \
   $(LOCAL_PATH)/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
-  $(LOCAL_PATH)/proprietary/lib/hw/camera.tegra.so:system/lib/hw/vendor-camera.tegra.so \
+  $(LOCAL_PATH)/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
   $(LOCAL_PATH)/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
   $(LOCAL_PATH)/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
   $(LOCAL_PATH)/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
