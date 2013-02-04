@@ -145,7 +145,6 @@ PRODUCT_COPY_FILES += \
   $(LOCAL_PATH)/proprietary/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r4:system/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r4 \
   $(LOCAL_PATH)/proprietary/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r5:system/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r5 \
   $(LOCAL_PATH)/proprietary/bin/calibrator:system/bin/calibrator \
-  $(LOCAL_PATH)/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
   $(LOCAL_PATH)/proprietary/lib/libcapsjava.so:system/lib/libcapsjava.so \
   $(LOCAL_PATH)/proprietary/lib/libscalado.so:system/lib/libscalado.so \
   $(LOCAL_PATH)/proprietary/lib/libscalado_htcalbum2.so:system/lib/libscalado_htcalbum2.so \
