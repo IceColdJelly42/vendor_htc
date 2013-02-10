@@ -63,6 +63,7 @@ PRODUCT_COPY_FILES += \
   $(LOCAL_PATH)/proprietary/bin/nvm_server:system/bin/nvm_server \
   $(LOCAL_PATH)/proprietary/bin/nvm_client:system/bin/nvm_client \
   $(LOCAL_PATH)/proprietary/bin/getnvm.sh:system/bin/getnvm.sh \
+  $(LOCAL_PATH)/proprietary/bin/hdmid:system/bin/hdmid \
   $(LOCAL_PATH)/proprietary/bin/IMCdownload:system/bin/IMCdownload \
   $(LOCAL_PATH)/proprietary/bin/make_sec_bin:system/bin/make_sec_bin \
   $(LOCAL_PATH)/proprietary/bin/poweroff_modem.sh:system/bin/poweroff_modem.sh \
