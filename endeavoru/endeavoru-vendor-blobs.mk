@@ -69,12 +69,10 @@ PRODUCT_COPY_FILES += \
   $(LOCAL_PATH)/proprietary/bin/poweroff_modem.sh:system/bin/poweroff_modem.sh \
   $(LOCAL_PATH)/proprietary/bin/poweron_modem_fls.sh:system/bin/poweron_modem_fls.sh \
   $(LOCAL_PATH)/proprietary/bin/InjectionTool:system/bin/InjectionTool \
+  $(LOCAL_PATH)/proprietary/bin/IMCdownload:system/bin/IMCdownload \
   $(LOCAL_PATH)/proprietary/lib/modules/cdc-acm.ko:system/lib/modules/cdc-acm.ko \
   $(LOCAL_PATH)/proprietary/bin/gsm0710muxd:system/bin/gsm0710muxd \
   $(LOCAL_PATH)/proprietary/bin/mknod:system/bin/mknod \
-  $(LOCAL_PATH)/proprietary/bin/l2_profile_exchange:system/bin/l2_profile_exchange \
-  $(LOCAL_PATH)/proprietary/bin/nvcpud:system/bin/nvcpud \
-  $(LOCAL_PATH)/proprietary/bin/tf_daemon:system/bin/tf_daemon \
   $(LOCAL_PATH)/proprietary/etc/Flash_Loader.conf:system/etc/Flash_Loader.conf \
   $(LOCAL_PATH)/proprietary/etc/QUO_6260.fls.clean:system/etc/QUO_6260.fls.clean \
   $(LOCAL_PATH)/proprietary/lib/libfmchr.so:system/lib/libfmchr.so \
