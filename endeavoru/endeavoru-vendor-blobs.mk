@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
   $(LOCAL_PATH)/proprietary/bin/IMCdownload:system/bin/IMCdownload \
   $(LOCAL_PATH)/proprietary/bin/make_sec_bin:system/bin/make_sec_bin \
   $(LOCAL_PATH)/proprietary/bin/poweroff_modem.sh:system/bin/poweroff_modem.sh \
-  $(LOCAL_PATH)/proprietary/bin/poweron_modem_hboot.sh:system/bin/poweron_modem_hboot.sh \
   $(LOCAL_PATH)/proprietary/bin/poweron_modem_fls.sh:system/bin/poweron_modem_fls.sh \
   $(LOCAL_PATH)/proprietary/bin/InjectionTool:system/bin/InjectionTool \
   $(LOCAL_PATH)/proprietary/bin/IMCdownload:system/bin/IMCdownload \
