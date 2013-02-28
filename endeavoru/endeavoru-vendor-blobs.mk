@@ -212,7 +212,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
   vendor/htc/endeavoru/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
   vendor/htc/endeavoru/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-  vendor/htc/endeavoru/proprietary/lib/hw/vendor-camera.tegra.so:system/lib/hw/vendor-camera.tegra.so \
+  vendor/htc/endeavoru/proprietary/lib/hw/vendor-camera.tegra.so:system/lib/hw/camera.tegra.so \
   vendor/htc/endeavoru/proprietary/lib/libBeautyChat.so:system/lib/libBeautyChat.so \
   vendor/htc/endeavoru/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
   vendor/htc/endeavoru/proprietary/lib/libcameraasd.so:system/lib/libcameraasd.so \
