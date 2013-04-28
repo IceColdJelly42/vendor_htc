@@ -184,6 +184,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/libmcphalgps.so:system/lib/libmcphalgps.so \
   vendor/htc/endeavoru/proprietary/lib/libgps.so:system/lib/libgps.so \
   vendor/htc/endeavoru/proprietary/lib/libgpsservices.so:system/lib/libgpsservices.so \
+  vendor/htc/endeavoru/proprietary/lib/libril.so:system/lib/libril.so \
+  vendor/htc/endeavoru/proprietary/lib/libril-icera.so:system/lib/libril-icera.so \
   vendor/htc/endeavoru/proprietary/lib/librilpos.so:system/lib/librilpos.so \
   vendor/htc/endeavoru/proprietary/lib/libsupllocationprovider.so:system/lib/libsupllocationprovider.so \
   vendor/htc/endeavoru/proprietary/lib/libmcphal.so:system/lib/libmcphal.so \
